@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Models and large artifacts - tracked by Git LFS
+# *.h5
+# *.hdf5
+# cifar10_saved_model/
+# saved_model/
+
+# Generated images/metrics - tracked by Git LFS
+# *.png
+# *.jpg
+# *.jpeg
+
+# Jupyter notebooks - tracked by Git LFS
+# *.ipynb
